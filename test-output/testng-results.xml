@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriver" duration-ms="18791" started-at="2019-11-16T15:18:37Z" finished-at="2019-11-16T15:18:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18791" started-at="2019-11-16T15:18:37Z" finished-at="2019-11-16T15:18:56Z">
+      <class name="TestNG.addbook">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.addbook@28d25987]" name="launch" is-config="true" duration-ms="12861" started-at="2019-11-16T15:18:37Z" finished-at="2019-11-16T15:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifyaddbook()[pri:0, instance:TestNG.addbook@28d25987]" name="verifyaddbook" duration-ms="3216" started-at="2019-11-16T15:18:50Z" finished-at="2019-11-16T15:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddbook -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.addbook@28d25987]" name="close" is-config="true" duration-ms="2640" started-at="2019-11-16T15:18:53Z" finished-at="2019-11-16T15:18:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.addbook -->
+    </test> <!-- Test -->
+  </suite> <!-- WebDriver -->
+</testng-results>
